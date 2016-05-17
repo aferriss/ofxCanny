@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A8927FFF-2F29-45D0-BB6E-1BD4EC47F133</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9233F0F4A2BE011BD468E5177A5AD6623263B23D</key>
+		<string>https://github.com/braitsch/ofxDatGui.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9233F0F4A2BE011BD468E5177A5AD6623263B23D</key>
+		<string>ofxDatGui/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/braitsch/ofxDatGui.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9233F0F4A2BE011BD468E5177A5AD6623263B23D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9233F0F4A2BE011BD468E5177A5AD6623263B23D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxDatGui</string>
+		</dict>
+	</array>
+</dict>
+</plist>
